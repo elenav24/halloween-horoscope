@@ -1,0 +1,78 @@
+.top-border {
+    width: 132.5625rem;
+    height: 19.00425rem;
+    flex-shrink: 0;
+}
+
+.bg-item:hover {
+    filter: 
+        drop-shadow(0 0 30px rgba(255, 255, 255, 0.25))
+        drop-shadow(0 0 30px rgba(255, 255, 255, 0.25))
+        drop-shadow(0 0 30px rgba(255, 255, 255, 0.25));
+}
+
+.witch {
+    width: 14vw;
+    height: auto;
+    aspect-ratio: 101/149;
+    position: absolute;
+    left: 1vw;
+    bottom: -0.1rem;
+}
+
+.ghost2 {
+    width: 13vw;
+    height: auto;
+    aspect-ratio: 1/1;
+    bottom: 0;
+    left: 12.7vw;
+    position: absolute;
+}
+
+.corn {
+    width: 7vw;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    left: 32vw;
+}
+
+.pumpkins {
+    width: 17vw;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    left: 56vw;
+}
+
+.house {
+    width: 19vw;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    right: -0.1vw;
+}
+
+.faces {
+    width: 8vw;
+    height: auto;
+    position: absolute;
+    top: 16vh;
+    left: 3.2vw;
+}
+
+.ghost1 {
+    width: 5vw;
+    height: auto;
+    position: absolute;
+    top: 16.7vh;
+    right: 7.5vw;
+}
+
+.spider2 {
+    width: 8vw;
+    height: auto;
+    position: absolute;
+    bottom: 40vh;
+    right: -0.3vw;
+}
